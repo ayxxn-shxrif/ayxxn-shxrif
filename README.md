@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Ayaan Sharif**, Checkout some of my repo to get enlightened
+My name is **Ayaan Sharif**
 
 
 Welcome to my GitHub profile, where bits and bytes come out to play and Python reigns supreme each day. I'm a lover of all things tech, and my GitHub is my open spec.
@@ -17,7 +17,10 @@ My commits are like sparks of fire, each one igniting my coding desire. With eac
 
 So come and join me on this coding spree. Together, we'll conquer the world, you'll see. Fork a repo, contribute with glee, and let's make this world a better place to be.
 
-
+So if you want to join in on the fun,
+And be enlightened by what I've done,
+Come and checkout my repos with ease,
+And together, let's code with a breeze!
 
 
 <!--
