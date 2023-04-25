@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is **Ayaan Sharif**
+My name is **Ayaan Sharif** 
+
+pursuing **AI and Data Science(B-TECH)** from Mumbai University! 
 
 
 Welcome to my GitHub profile, where bits and bytes come out to play and Python reigns supreme each day. I'm a lover of all things tech, and my GitHub is my open spec.
